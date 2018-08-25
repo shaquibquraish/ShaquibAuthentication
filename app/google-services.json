@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501770201853",
+    "firebase_url": "https://shaquibauthentication.firebaseio.com",
+    "project_id": "shaquibauthentication",
+    "storage_bucket": "shaquibauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501770201853:android:24e718d545a65f2f",
+        "android_client_info": {
+          "package_name": "com.shaquibquraishi.shaquibauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501770201853-494uno5v31mc75s1oervg08maenfo9jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shaquibquraishi.shaquibauthentication",
+            "certificate_hash": "186b41406276ffec339aeadf8ed6bc80ac42098a"
+          }
+        },
+        {
+          "client_id": "501770201853-6aqkt8uvqi7n9lf5pr3ifjrlancn03i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUAk9lWvu_gjRTkH9ENImrtzEG0hIrWs0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501770201853-6aqkt8uvqi7n9lf5pr3ifjrlancn03i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
